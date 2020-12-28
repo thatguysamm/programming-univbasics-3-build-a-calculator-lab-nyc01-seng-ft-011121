@@ -6,26 +6,22 @@ end
 
 def subtraction(num1, num2)
   answer = "num1 - num2"
-  puts ("num1 - num2")
-  5
+  answer
 end
 
 def division(num1, num2)
   answer = "num1 / num2"
-  puts ("num1 / num2")
-  25
+  answer
 end
 
 def multiplication(num1, num2)
   answer = "num1 * num2"
-  puts ("num1 * num2")
-  120
+  answer
 end
 
 def modulo(num1, num2)
   answer = "num1 % num2"
-  puts ("num1 % num2")
-  4
+  answer
 end
 
 def square_root(num)
