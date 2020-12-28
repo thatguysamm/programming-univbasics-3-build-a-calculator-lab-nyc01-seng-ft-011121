@@ -32,5 +32,3 @@ def square_root(num)
   puts Math.sqrt (81)
   9
 end
-
-addition(5,4)
