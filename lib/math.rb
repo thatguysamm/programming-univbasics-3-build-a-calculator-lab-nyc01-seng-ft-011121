@@ -1,7 +1,6 @@
 def addition(num1, num2)
-  num1= 5
-  num2= 0
   answer= num1 + num2
+  puts ("num1 + num2 = {answer}")
 
 end
 
@@ -33,3 +32,5 @@ def square_root(num)
   puts Math.sqrt (81)
   9
 end
+
+addition(5,4)
